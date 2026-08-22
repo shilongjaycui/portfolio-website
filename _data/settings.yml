@@ -31,7 +31,7 @@ menu__settings:
 author:
   author__name: Jay Cui
   author__bio: So, If you're looking for robust, scalable IT infrastructure in the cloud, let's connect.
-  author__avatar: '/images/01-1.jpg'
+  author__avatar: '/images/utah-asian-festival.jpg'
 
 social:
 - {icon: "fa-brands fa-github", link: "https://github.com/shilongjaycui"}
@@ -47,7 +47,7 @@ social:
 hero:
   hero__title: I'm Jay. I will create value for you by building robust, scalable IT infrastructure.
   hero__description: So, If you're looking for robust, scalable IT infrastructure in the cloud, let's connect.
-  hero__image: '/images/01.jpg'
+  hero__image: '/images/devopsdayla.jpg'
 
 
 #-------------------------------
